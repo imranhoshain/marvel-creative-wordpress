@@ -1,0 +1,531 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .service-feature {
+        margin-left: 30px;
+    }
+
+    .service-left {
+        top: 21%;
+    }
+
+    .team-hover h6 {
+        margin-bottom: 0;
+    }
+
+    .team-hover p {
+        padding: 20px;
+    }
+}
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    .slicknav_menu {
+        display: block;
+        padding: 20px 0;
+    }
+
+    .sticky-wrapper {
+        display: none;
+    }
+
+    .slicknav_nav a {
+        padding: 13px 10px;
+        margin: 0;
+
+    }
+
+    .viewport-content h1 {
+        font-size: 40px;
+    }
+
+    .heading-text h2 {
+        left: 15%;
+
+    }
+
+    .heading-text {
+        margin-bottom: 40px;
+    }
+
+    .counter-heading h2 {
+        margin-bottom: 60px;
+        margin-top: 60px;
+    }
+
+    .about-bg {
+        height: 1140px;
+    }
+
+    .who-we-are {
+        height: auto;
+    }
+
+    .creative-area .heading-text h2 {
+        left: 6%;
+    }
+
+    .portfolio-hover {
+        padding: 6px 0;
+    }
+
+    .portfolio-area .heading-text h2 {
+        left: 30%;
+    }
+
+    .portfolio-hover h6 {
+        font-size: 10px;
+        margin-bottom: 0;
+    }
+
+    .portfolio-hover .hover-link i.fa {
+        height: 20px;
+        width: 20px;
+        line-height: 20px;
+        font-size: 11px;
+
+    }
+
+    .portfolio-hover .hover-link {
+        top: -30px;
+        margin-top: -40px;
+        padding: 1px 5px;
+
+    }
+
+    .service-left {
+        display: none;
+    }
+
+    .price-area .heading-text h2 {
+        left: 26%;
+    }
+
+    .price-box-top h6 {
+        font-size: 30px;
+    }
+
+    .price-box-bottom li {
+        font-size: 15px;
+    }
+
+    .price-box-bottom {
+        padding-top: 10px;
+    }
+
+    .team-area .heading-text h2 {
+        left: 31%;
+    }
+
+    .team-hover p {
+        padding: 15px;
+    }
+
+    .team-hover h5 {
+        margin-top: 20px;
+        font-size: 18px;
+    }
+
+    .team-hover h6 {
+        margin-bottom: 0;
+    }
+
+    .team-hover p {
+        padding: 10px;
+    }
+
+    .social-info {
+        padding: 0;
+    }
+
+    .blog-area .heading-text h2 {
+        left: 25%;
+    }
+
+    .blog-post-date h4 {
+        left: 22%;
+        padding: 8px 7px;
+        font-size: 10px;
+    }
+
+    .single-blog-cntn {
+        padding: 20px 0;
+    }
+
+    .single-blog-cntn {
+        font-size: 12px;
+    }
+
+    .blog-title a {
+        font-size: 12px;
+    }
+
+    .blog-detail p {
+        margin-top: 5px;
+    }
+
+    .contact-area .heading-text h2 {
+        left: 27%;
+    }
+
+    .footer-widget-two i.fa {
+        padding: 8px;
+    }
+
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+    .slicknav_menu {
+        display: block;
+    }
+
+    .slicknav_menu {
+        display: block;
+        padding: 20px 0;
+    }
+
+    .sticky-wrapper {
+        display: none;
+    }
+
+    .slicknav_nav a {
+        padding: 13px 10px;
+        margin: 0;
+
+    }
+
+    .viewport-content h1 {
+        font-size: 40px;
+    }
+
+    .heading-text h2 {
+        left: 15%;
+        font-size: 25px;
+    }
+
+    .heading-text {
+        margin-bottom: 40px;
+    }
+
+    .counter-heading h2 {
+        margin-bottom: 60px;
+        margin-top: 60px;
+    }
+
+    .about-bg {
+        height: auto;
+    }
+
+    .about-box {
+        margin-top: 20px;
+    }
+
+    .about-box p {
+        padding: 10px
+    }
+
+    .boost-content .heading-text {
+        margin-bottom: 20px;
+    }
+
+    .who-we-are {
+        height: auto;
+    }
+
+    .creative-area .heading-text h2 {
+        left: 6%;
+    }
+
+
+    .portfolio-area .heading-text h2 {
+        left: 30%;
+    }
+
+    .portfolio-menu li {
+
+        margin-right: 5px;
+        padding: 4px 9px;
+    }
+
+    .heading-text h1 {
+        text-align: center;
+    }
+
+    .service-area .heading-text h2 {
+        left: 10%;
+    }
+
+    .service-left {
+        display: none;
+    }
+
+    .price-area .heading-text h2 {
+        left: 18%;
+    }
+
+
+    .price-box-bottom li {
+        font-size: 15px;
+    }
+
+    .price-box-bottom {
+        padding-top: 10px;
+    }
+
+    .price-box {
+        margin-bottom: 30px;
+    }
+
+    .team-area .heading-text h2 {
+        left: 31%;
+    }
+
+    .single-team {
+        margin-bottom: 30px;
+    }
+
+    .blog-area .heading-text h2 {
+        left: 25%;
+    }
+
+    .blog-post-date h4 {
+        bottom: -7%;
+        font-size: 25px;
+        left: 30%;
+    }
+
+    .single-blog {
+        margin-bottom: 40px;
+    }
+
+    .blog-detail p {
+        margin-top: 15px;
+        font-size: 18px;
+    }
+
+    .single-blog-cntn {
+        padding-bottom: 15px;
+        padding-top: 35px;
+    }
+
+    .contact-area .heading-text h2 {
+        left: 27%;
+    }
+
+    .footer-widget-two i.fa {
+        padding: 8px;
+    }
+
+    .footer-widget-three {
+        margin-top: 20px;
+    }
+
+
+}
+
+/* Small Mobile Layout*/
+
+@media only screen and (min-width: 0px) and (max-width: 479px) {
+
+    .slicknav_menu {
+        display: block;
+    }
+
+    .slicknav_menu {
+        display: block;
+        padding: 20px 0;
+    }
+
+    .sticky-wrapper {
+        display: none;
+    }
+
+    .slicknav_nav a {
+        padding: 13px 10px;
+        margin: 0;
+
+    }
+
+    .viewport-content h1 {
+        font-size: 30px;
+    }
+
+    .viewport-content h1 {
+        margin-bottom: 20px;
+    }
+
+    .heading-text h2 {
+        left: 15%;
+        font-size: 20px;
+    }
+
+    .heading-text {
+        margin-bottom: 40px;
+    }
+
+    .counter-heading h2 {
+        margin-bottom: 60px;
+        margin-top: 60px;
+    }
+
+    .about-bg {
+        height: auto;
+    }
+
+    .about-box {
+        margin-top: 20px;
+    }
+
+    .about-box p {
+        padding: 10px
+    }
+
+    .about-info-btn {
+        padding: 40px 0;
+    }
+
+    .about-info-btn a {
+        margin-left: 0;
+    }
+
+    .boost-content .heading-text h1 {
+        margin-bottom: 20px;
+        font-size: 55px;
+    }
+
+    .heading-text h2.boost-sub {
+        top: 38px;
+        left: 10%;
+    }
+
+    .boost-content .heading-text {
+        margin-bottom: 0;
+    }
+
+    .we-are-content a {
+        margin-left: 8px;
+    }
+
+    .who-we-are {
+        height: auto;
+    }
+
+    .creative-area .heading-text h1 {
+        font-size: 60px;
+    }
+
+    .creative-area .heading-text h2 {
+        left: 3%;
+        font-size: 18px;
+        top: 38px;
+    }
+
+    .portfolio-area .heading-text h2 {
+        left: 30%;
+    }
+
+    .portfolio-menu li {
+
+        margin-right: 5px;
+        padding: 4px 9px;
+        margin-top: 10px;
+    }
+
+    .service-area .heading-text h1 {
+        font-size: 70px;
+        text-align: center;
+    }
+
+    .service-area .heading-text h2 {
+        left: 4%;
+        font-size: 20px;
+        top: 45px;
+    }
+
+
+    .service-left {
+        display: none;
+    }
+
+    .price-area .heading-text h1 {
+        font-size: 70px;
+    }
+
+    .price-area .heading-text h2 {
+        left: 9%;
+        top: 38px;
+    }
+
+
+    .price-box-bottom li {
+        font-size: 15px;
+    }
+
+    .price-box-bottom {
+        padding-top: 10px;
+    }
+
+    .price-box {
+        margin-bottom: 30px;
+    }
+
+    .team-area .heading-text h2 {
+        left: 31%;
+    }
+
+    .single-team {
+        margin-bottom: 30px;
+    }
+
+    .blog-area .heading-text h2 {
+        left: 25%;
+    }
+
+    .blog-post-date h4 {
+        bottom: -7%;
+        font-size: 25px;
+        left: 30%;
+    }
+
+    .single-blog {
+        margin-bottom: 40px;
+    }
+
+    .blog-detail p {
+        margin-top: 15px;
+        font-size: 18px;
+    }
+
+    .single-blog-cntn {
+        padding-bottom: 15px;
+        padding-top: 35px;
+    }
+
+    .contact-area .heading-text h2 {
+        left: 27%;
+    }
+    .contact-area .heading-text h1{
+        font-size: 70px;
+    }
+
+    .footer-widget-two i.fa {
+        padding: 8px;
+    }
+
+    .footer-widget-two {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+
+    .footer-widget-three {
+        margin-top: 20px;
+    }
+
+
+}
